@@ -4,8 +4,8 @@
 
 * [Start](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/Index.md)
 * [Cube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
-* [MyCube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/MyCube.md)
 * [CustomCube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/CustomCube.md)
+* [MyCube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/MyCube.md)
 
 My custom Cube.
 
