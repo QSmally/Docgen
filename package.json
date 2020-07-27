@@ -1,0 +1,9 @@
+{
+  "name": "docgen",
+  "main": "lib/Main.js",
+  "author": "QSmally",
+  "license": "Apache-2.0",
+  "bin": {
+    "gendocs": "./lib/Main.js"
+  }
+}
