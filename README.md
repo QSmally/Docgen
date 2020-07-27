@@ -25,10 +25,11 @@ gendocs [Path to configuration file]
     // Repository URL (with blob/{branch}) to link.
     "Repository": "https://github.com/QSmally/Docgen/blob/master",
 
-    // File names to make docs for.
-    // An array of keys to 'whitelist' for making docs (this is also going to be the sort order),
-    // just a value 'true' to indicate all files - but sort order is based on the directory tree,
-    // or 'false' to generate docs for all files, sorted by their ASCII character order.
+    // File names to make docs for. Types:
+    // Array - An array of keys to 'whitelist' for making docs (this is also going to be the sort order),
+    // Boolean true - To indicate all files - but sort order is based on the directory tree,
+    // Boolean false - To generate docs for all files, sorted by their ASCII character order.
+    // String - Path to the JS file with an object, and as keys, the keys to use. (Experimental)
     "Keys": ["Cube", "MyCube", "CustomCube"]
 }
 ```
