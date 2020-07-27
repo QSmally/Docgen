@@ -1,0 +1,11 @@
+
+# Testing
+Deploy/
+
+# Miscellaneous
+.git/
+.DS_Store
+*.zip
+
+# Packages
+node_modules/
