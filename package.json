@@ -1,5 +1,6 @@
 {
   "name": "docgen",
+  "version": "0.1.0",
   "main": "lib/Main.js",
   "author": "QSmally",
   "license": "Apache-2.0",
