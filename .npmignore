@@ -1,0 +1,17 @@
+
+# Testing
+Test/
+Deploy/
+Documentation/
+
+# Miscellaneous
+.git/
+.DS_Store
+.gitignore
+*.zip
+
+# Packages
+node_modules/
+
+# Examples
+Config.example.json
