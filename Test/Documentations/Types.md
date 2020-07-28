@@ -1,6 +1,5 @@
 
-# CustomCube
-### Extends **{MyCube}**
+# Types
 
 * [Start](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/Index.md)
 * [Cube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
@@ -8,12 +7,13 @@
 * [MyCube](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/MyCube.md)
 * [Types](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/Types.md)
 
-Yet another custom Cube.
 
 
-
-# Values
-## [.OddNumber](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Extensions/CustomCube.js#L22) [**Getter**, **Setter**]
-> The odd number.
+## [.NameOptions](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Types.js#L2)
+> Options for this MyCube.
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | Name | String | The name of this MyCube. |
+> | Age | Number | Length of life. |
 >
-> Type **{Number}**
+> Type **{Object}**
