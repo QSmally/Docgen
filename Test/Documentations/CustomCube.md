@@ -13,7 +13,7 @@ Yet another custom Cube.
 
 
 # Values
-## [.OddNumber](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Extensions/CustomCube.js#L22) [**Getter**, **Setter**]
+## [.OddNumber](https:/github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/CustomCube.js#L22) [**Getter**, **Setter**]
 > The odd number.
 >
 > Type **{Number}**

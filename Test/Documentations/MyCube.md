@@ -13,7 +13,7 @@ My custom Cube.
 
 
 # Values
-## [.Name](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Extensions/MyCube.js#L19) [**Getter**]
+## [.Name](https:/github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L19) [**Getter**]
 > Defines the name of this Cube.
 >
 > Type **{NameOptions}**
