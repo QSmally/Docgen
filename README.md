@@ -3,6 +3,8 @@
 
 This module creates in-depth Markdown documentation based on your JSDoc comments.
 
+[Here's an example of what it looks like!](https://github.com/QSmally/Docgen/blob/master/Documentations/Index.md)
+
 ### How To Use
 
 To generate documentations for your module, customise the [configuration](#example-config) and enter the following command in your Node script:
