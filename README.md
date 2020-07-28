@@ -3,7 +3,7 @@
 
 This module creates in-depth Markdown documentation based on your JSDoc comments.
 
-[Here's an example of what it looks like!](https://github.com/QSmally/Docgen/blob/master/Documentations/Index.md)
+[Here's an example of what it looks like!](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Index.md)
 
 ### How To Use
 
