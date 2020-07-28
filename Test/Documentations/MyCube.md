@@ -15,4 +15,9 @@ My custom Cube.
 ## [.Name](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L19) [**Getter**]
 > Defines the name of this Cube.
 >
-> Type **{NameOptions}**
+> Type **{String}**
+
+## [.MyCubeName](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L31)
+> Returns the name.
+>
+> Type **{String}**

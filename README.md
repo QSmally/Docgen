@@ -32,7 +32,7 @@ gendocs [Path to configuration file]
     // Array - An array of keys to 'whitelist' for making docs (this is also going to be the sort order),
     // Boolean true - To indicate all files - but sort order is based on the directory tree,
     // Boolean false - To generate docs for all files, sorted by their ASCII character order.
-    // String - Path to the JS file with an object, and as keys, the keys to use. (Experimental)
+    // String - Path to the JS file with an object, and as keys, the keys to use.
     "Keys": ["Cube", "MyCube", "CustomCube"],
 
     // If you have a seperate file with type definitions, and you're using the Key Path or
