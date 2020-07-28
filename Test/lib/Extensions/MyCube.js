@@ -30,10 +30,10 @@ class MyCube extends Cube {
 
     /**
      * Returns the name.
-     * @name MyCube#Name
+     * @name MyCube#MyCubeName
      * @type {String}
      */
-    get Name () {
+    get MyCubeName () {
         return this.Name;
     }
 
