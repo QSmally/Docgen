@@ -5,5 +5,6 @@
         "Cube": "To create your own, please create another class which extends this one."
     },
     "Repository": "https://github.com/QSmally/Docgen/blob/master",
-    "Keys": false
+    "Keys": false,
+    "Typedefs": []
 }
