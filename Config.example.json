@@ -1,10 +1,10 @@
 {
-    "Source": "./Test/lib/",
-    "Out": "./Test/Documentations/",
+    "Source": "Test/lib/",
+    "Out": "Test/Documentations/",
     "Additional": {
         "Cube": "To create your own, please create another class which extends this one."
     },
-    "Repository": "https://github.com/QSmally/Docgen/blob/master",
+    "Repository": "https://github.com/QSmally/Docgen/blob/master/",
     "Keys": ["Cube", "CustomCube", "MyCube"],
     "Typedefs": ["Types"]
 }

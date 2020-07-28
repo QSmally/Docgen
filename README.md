@@ -15,8 +15,8 @@ gendocs [Path to configuration file]
 ### Example Config
 ```jsonc
 {
-    "Source": "./lib/",            // Where the docgen has to look to generate files.
-    "Out":    "./Documentations/", // Output directory of the Markdown files.
+    "Source": "lib/",            // Where the docgen has to look to generate files.
+    "Out":    "Documentations/", // Output directory of the Markdown files.
 
     // Additional text per file, to include deprecations or how-to's.
     "Additional": {
@@ -25,7 +25,7 @@ gendocs [Path to configuration file]
     },
 
     // Repository URL (with blob/{branch}) to link.
-    "Repository": "https://github.com/QSmally/Docgen/blob/master",
+    "Repository": "https://github.com/QSmally/Docgen/blob/master/",
 
     // File names to make docs for. Types:
     // Array - An array of keys to 'whitelist' for making docs (this is also going to be the sort order),
