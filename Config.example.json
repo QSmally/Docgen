@@ -1,6 +1,7 @@
 {
     "Source": "Test/lib/",
     "Out": "Test/Documentations/",
+    "Index": false,
     "Additional": {
         "Cube": "To create your own, please create another class which extends this one."
     },

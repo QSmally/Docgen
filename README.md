@@ -17,6 +17,7 @@ gendocs [Path to configuration file]
 {
     "Source": "lib/",            // Where the docgen has to look to generate files.
     "Out":    "Documentations/", // Output directory of the Markdown files.
+    "Index":  true,              // Whether or not to include a custom 'Index.md' in the documentations.
 
     // Additional text per file, to include deprecations or how-to's.
     "Additional": {
