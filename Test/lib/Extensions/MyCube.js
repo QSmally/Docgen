@@ -36,6 +36,15 @@ class MyCube extends Cube {
     get MyCubeName () {
         return this.Name;
     }
+    
+    /**
+     * Name of this MyCube.
+     * @name MyCube#Name
+     * @type {String}
+     */
+    get Name () {
+        return this.Name;
+    }
 
 }
 
