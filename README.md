@@ -30,6 +30,11 @@ gendocs [Path to configuration file]
     // Boolean true - To indicate all files - but sort order is based on the directory tree,
     // Boolean false - To generate docs for all files, sorted by their ASCII character order.
     // String - Path to the JS file with an object, and as keys, the keys to use. (Experimental)
-    "Keys": ["Cube", "MyCube", "CustomCube"]
+    "Keys": ["Cube", "MyCube", "CustomCube"],
+
+    // If you have a seperate file with type definitions, and you're using the Key Path option,
+    // you can add the files to add to type definitions here. If you want all files to be
+    // added to generate docs from, apply either 'true' or 'false' to the Keys value.
+    "Typedefs": ["Typedefs"]
 }
 ```
