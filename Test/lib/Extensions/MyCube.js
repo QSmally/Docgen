@@ -19,7 +19,7 @@ class MyCube extends Cube {
         /**
          * Defines the name of this Cube.
          * @name MyCube#Name
-         * @type {String}
+         * @type {NameOptions}
          * @private
          */
         Object.defineProperty(this, "Name", {
@@ -40,3 +40,10 @@ class MyCube extends Cube {
 }
 
 module.exports = MyCube;
+
+/**
+ * Options for this MyCube.
+ * @typedef {Object} NameOptions
+ * @param {String} Name The name of this MyCube.
+ * @param {Number} Age Length of life.
+ */

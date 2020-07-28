@@ -16,4 +16,3 @@ Yet another custom Cube.
 > The odd number.
 >
 > Type **{Number}**
-

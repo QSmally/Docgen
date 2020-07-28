@@ -15,5 +15,14 @@ My custom Cube.
 ## [.Name](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Extensions/MyCube.js#L19) [**Getter**]
 > Defines the name of this Cube.
 >
-> Type **{String}**
+> Type **{NameOptions}**
 
+# Typedefs
+## [.NameOptions](https:/github.com/QSmally/Docgen/blob/master/Test/Documentations/lib/Extensions/MyCube.js#L44)
+> Options for this MyCube.
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | Name | String | The name of this MyCube. |
+> | Age | Number | Length of life. |
+>
+> Type **{Object}**
