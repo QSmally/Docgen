@@ -9,6 +9,11 @@
 
 Yet another custom Cube.
 
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | x | Number | Length of this Cube. |
+> | z | Number | Width of this Cube. |
+
 
 
 # Values

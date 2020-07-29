@@ -7,24 +7,32 @@
 * [Types](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Types.md)
 
 A basic Cube measure.
+```js
+const Cube = new Cube(5, 3);
+```
+
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | x | Number | Length of this Cube. |
+> | z | Number | Width of this Cube. |
 
 To create your own, please create another class which extends this one.
 
 
 
 # Values
-## [.Length](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L13)
+## [.Length](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L14)
 > The length of this Cube. [**Read Only**]
 >
 > Type **{Number}**
 
-## [.Width](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L21)
+## [.Width](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L22)
 > The width of this Cube. [**Read Only**]
 >
 > Type **{Number}**
 
 # Methods
-## [.Square()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L31) [**Async**]
+## [.Square()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L32) [**Async**]
 > Calculates the surface of this Cube.
 >
 > Returns **{Number}** Area of the Cube.
