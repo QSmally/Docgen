@@ -9,6 +9,12 @@
 
 My custom Cube.
 
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | n | String | Name of this Cube. |
+> | x | Number | Length of this Cube. |
+> | z | Number | Width of this Cube. |
+
 
 
 # Values
