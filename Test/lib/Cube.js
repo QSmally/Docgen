@@ -7,6 +7,7 @@ class Cube {
      * A basic Cube measure.
      * @param {Number} x Length of this Cube.
      * @param {Number} z Width of this Cube.
+     * @example const Cube = new Cube(5, 3);
      */
     constructor (x, y) {
         
