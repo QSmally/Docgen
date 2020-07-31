@@ -48,7 +48,7 @@ class MyCube extends Cube {
 
     /**
      * Returns the number 5.
-     * @returns {Number}
+     * @returns {NoNum}
      * @static
      */
     static No () {
@@ -57,7 +57,7 @@ class MyCube extends Cube {
 
     /**
      * Asynchronously returns the number 16.
-     * @returns {Number}
+     * @returns {NoNum}
      * @static
      * @async
      */
