@@ -32,12 +32,12 @@ My custom Cube.
 ## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L49) [**Static**]
 > Returns the number 5.
 >
-> Returns **{Number}** 
+> Returns **{NoNum}** 
 
 ## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L58) [**Static**, **Async**]
 > Asynchronously returns the number 16.
 >
-> Returns **{Number}** 
+> Returns **{NoNum}** 
 
 # Typedefs
 ## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L73)
