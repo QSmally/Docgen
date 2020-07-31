@@ -46,6 +46,31 @@ class MyCube extends Cube {
         return this.Name;
     }
 
+    /**
+     * Returns the number 5.
+     * @returns {Number}
+     * @static
+     */
+    static No () {
+        return 5;
+    }
+
+    /**
+     * Asynchronously returns the number 16.
+     * @returns {Number}
+     * @static
+     * @async
+     */
+    static async No2 () {
+        return 16;
+    }
+
 }
 
 module.exports = MyCube;
+
+
+/**
+ * The number 5 or 16.
+ * @typedef {Number} NoNum
+ */
