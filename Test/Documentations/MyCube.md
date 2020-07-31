@@ -9,11 +9,11 @@
 
 My custom Cube.
 
-> | Key | Type | Description |
-> | --- | --- | --- |
-> | n | String | Name of this Cube. |
-> | x | Number | Length of this Cube. |
-> | z | Number | Width of this Cube. |
+| Key | Type | Description |
+| --- | --- | --- |
+| n | String | Name of this Cube. |
+| x | Number | Length of this Cube. |
+| z | Number | Width of this Cube. |
 
 
 
@@ -27,3 +27,20 @@ My custom Cube.
 > Returns the name.
 >
 > Type **{String}**
+
+# Methods
+## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L49) [**Static**]
+> Returns the number 5.
+>
+> Returns **{Number}** 
+
+## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L58) [**Static**, **Async**]
+> Asynchronously returns the number 16.
+>
+> Returns **{Number}** 
+
+# Typedefs
+## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L73)
+> The number 5 or 16.
+>
+> Type **{Number}**

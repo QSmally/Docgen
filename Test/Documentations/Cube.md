@@ -11,10 +11,10 @@ A basic Cube measure.
 const Cube = new Cube(5, 3);
 ```
 
-> | Key | Type | Description |
-> | --- | --- | --- |
-> | x | Number | Length of this Cube. |
-> | z | Number | Width of this Cube. |
+| Key | Type | Description |
+| --- | --- | --- |
+| x | Number | Length of this Cube. |
+| z | Number | Width of this Cube. |
 
 To create your own, please create another class which extends this one.
 
