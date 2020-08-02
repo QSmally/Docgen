@@ -1,0 +1,116 @@
+{
+    "Cube": [
+        {
+            "Value": "Length",
+            "Flags": [
+                "Variable",
+                "ReadOnly"
+            ],
+            "Line": 14,
+            "Description": "The length of this Cube.",
+            "Type": "{Number}"
+        },
+        {
+            "Value": "Width",
+            "Flags": [
+                "Variable",
+                "ReadOnly"
+            ],
+            "Line": 22,
+            "Description": "The width of this Cube.",
+            "Type": "{Number}"
+        },
+        {
+            "Value": "Square",
+            "Flags": [
+                "Async"
+            ],
+            "Line": 32,
+            "Description": "Calculates the surface of this Cube.",
+            "Returns": "{Number} Area of the Cube."
+        }
+    ],
+    "CustomCube": [
+        {
+            "Value": "OddNumber",
+            "Flags": [
+                "Variable",
+                "Getter",
+                "Setter"
+            ],
+            "Line": 22,
+            "Description": "The odd number.",
+            "Type": "{Number}",
+            "Refer": "SomeOddNumber"
+        }
+    ],
+    "MyCube": [
+        {
+            "Value": "Name",
+            "Flags": [
+                "Variable",
+                "Getter"
+            ],
+            "Line": 19,
+            "Description": "Defines the name of this Cube.",
+            "Type": "{String}",
+            "Refer": "Name"
+        },
+        {
+            "Value": "MyCubeName",
+            "Flags": [
+                "Variable"
+            ],
+            "Line": 31,
+            "Description": "Returns the name.",
+            "Action": "Getter",
+            "Refer": "MyCubeName",
+            "Type": "{String}"
+        },
+        {
+            "Value": "No",
+            "Flags": [
+                null,
+                "Static"
+            ],
+            "Line": 49,
+            "Description": "Returns the number 5.",
+            "Returns": "{NoNum}"
+        },
+        {
+            "Value": "No2",
+            "Flags": [
+                null,
+                "Static",
+                "Async"
+            ],
+            "Line": 58,
+            "Description": "Asynchronously returns the number 16.",
+            "Returns": "{NoNum}"
+        },
+        {
+            "Value": "",
+            "Flags": [
+                "Typedef"
+            ],
+            "Line": 73,
+            "Description": "The number 5 or 16.",
+            "Typedef": "{Number} NoNum"
+        }
+    ],
+    "Types": [
+        {
+            "Value": "",
+            "Flags": [
+                "Typedef"
+            ],
+            "Line": 2,
+            "Description": "Options for this MyCube.",
+            "Typedef": "{Object} NameOptions",
+            "Params": [
+                "{String} Name The name of this MyCube.",
+                "{Number} Age Length of life."
+            ]
+        }
+    ]
+}
