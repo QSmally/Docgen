@@ -7,7 +7,7 @@ This module creates in-depth Markdown documentation based on your JSDoc comments
 
 ### How To Use
 
-To generate documentations for your module, customise the [configuration](#example-config) and enter the following command in your Node script:
+To generate documentations for your module, customise the [configuration](#example-config) and enter the following command in your **Node scripts**:
 ```bash
 gendocs [Path to configuration file]
 ```
