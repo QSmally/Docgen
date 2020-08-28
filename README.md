@@ -29,15 +29,15 @@ gendocs [Path to configuration file]
     "Repository": "https://github.com/QSmally/Docgen/blob/master/",
 
     // File names to make docs for. Types:
-    // Array - An array of keys to 'whitelist' for making docs (this is also going to be the sort order),
+    // Array - An array of file paths to 'whitelist' for making docs (this is also going to be the sort order),
     // Boolean true - To indicate all files - but sort order is based on the directory tree,
     // Boolean false - To generate docs for all files, sorted by their ASCII character order.
     // String - Path to the JS file with an object, and as keys, the keys to use.
-    "Keys": ["Cube", "MyCube", "CustomCube"],
+    "Keys": ["lib/Cube", "lib/Extensions/MyCube", "lib/Extensions/CustomCube"],
 
     // If you have a seperate file with type definitions, and you're using the Key Path or
     // the array of files option, you can add the files to add to type definitions here. If you want
     // all files to be added to generate docs from, apply either 'true' or 'false' to the Keys value.
-    "Typedefs": ["MyTypes"]
+    "Typedefs": ["lib/Types/MyTypes"]
 }
 ```
