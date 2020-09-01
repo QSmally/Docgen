@@ -51,7 +51,7 @@
                 "Variable",
                 "Getter"
             ],
-            "Line": 19,
+            "Line": 20,
             "Description": "Defines the name of this Cube.",
             "Type": "{String}",
             "Refer": "Name"
@@ -61,7 +61,7 @@
             "Flags": [
                 "Variable"
             ],
-            "Line": 31,
+            "Line": 32,
             "Description": "Returns the name.",
             "Action": "Getter",
             "Refer": "MyCubeName",
@@ -73,7 +73,7 @@
                 null,
                 "Static"
             ],
-            "Line": 49,
+            "Line": 50,
             "Description": "Returns the number 5.",
             "Returns": "{NoNum}"
         },
@@ -84,7 +84,7 @@
                 "Static",
                 "Async"
             ],
-            "Line": 58,
+            "Line": 59,
             "Description": "Asynchronously returns the number 16.",
             "Returns": "{NoNum}"
         },
@@ -93,7 +93,7 @@
             "Flags": [
                 "Typedef"
             ],
-            "Line": 73,
+            "Line": 74,
             "Description": "The number 5 or 16.",
             "Typedef": "{Number} NoNum"
         }

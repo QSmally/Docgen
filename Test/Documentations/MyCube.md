@@ -1,6 +1,6 @@
 
 # MyCube
-### Extends **{Cube}**
+### Extends **({Cube})[https://example.com/]**
 
 * [Cube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
 * [CustomCube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/CustomCube.md)
@@ -18,29 +18,29 @@ My custom Cube.
 
 
 # Values
-## [.Name](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L19) [**Getter**]
+## [.Name](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L20) [**Getter**]
 > Defines the name of this Cube.
 >
 > Type **{String}**
 
-## [.MyCubeName](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L31)
+## [.MyCubeName](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L32)
 > Returns the name.
 >
 > Type **{String}**
 
 # Methods
-## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L49) [**Static**]
+## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L50) [**Static**]
 > Returns the number 5.
 >
 > Returns **{NoNum}** 
 
-## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L58) [**Static**, **Async**]
+## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L59) [**Static**, **Async**]
 > Asynchronously returns the number 16.
 >
 > Returns **{NoNum}** 
 
 # Typedefs
-## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L73)
+## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L74)
 > The number 5 or 16.
 >
 > Type **{Number}**

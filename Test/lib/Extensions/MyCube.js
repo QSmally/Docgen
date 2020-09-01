@@ -11,6 +11,7 @@ class MyCube extends Cube {
      * @param {Number} x Length of this Cube.
      * @param {Number} z Width of this Cube.
      * @extends {Cube}
+     * @link https://example.com/
      */
     constructor (n, x, y) {
         
