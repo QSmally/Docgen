@@ -1,6 +1,6 @@
 
 # MyCube
-### Extends **({Cube})[https://cube.com/]**
+### Extends **[{Cube}](https://cube.com/)**
 
 * [Cube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
 * [CustomCube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/CustomCube.md)
@@ -26,7 +26,7 @@ My custom Cube.
 ## [.MyCubeName](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L37)
 > Returns the name.
 >
-> Type **({String})[https://url.to.string/docs]**
+> Type **[{String}](https://url.to.string/docs)**
 
 # Methods
 ## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L56) [**Static**]
