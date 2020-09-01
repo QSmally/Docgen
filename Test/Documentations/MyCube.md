@@ -26,21 +26,21 @@ My custom Cube.
 ## [.MyCubeName](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L32)
 > Returns the name.
 >
-> Type **{String}**
+> Type **({String})[https://url.to.string/docs]**
 
 # Methods
-## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L50) [**Static**]
+## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L51) [**Static**]
 > Returns the number 5.
 >
 > Returns **{NoNum}** 
 
-## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L59) [**Static**, **Async**]
+## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L60) [**Static**, **Async**]
 > Asynchronously returns the number 16.
 >
 > Returns **{NoNum}** 
 
 # Typedefs
-## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L74)
+## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L75)
 > The number 5 or 16.
 >
 > Type **{Number}**

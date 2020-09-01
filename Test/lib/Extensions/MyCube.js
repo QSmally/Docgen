@@ -33,6 +33,7 @@ class MyCube extends Cube {
      * Returns the name.
      * @name MyCube#MyCubeName
      * @type {String}
+     * @link https://url.to.string/docs
      */
     get MyCubeName () {
         return this.Name;
