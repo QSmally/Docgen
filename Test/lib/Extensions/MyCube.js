@@ -10,10 +10,15 @@ class MyCube extends Cube {
      * @param {String} n Name of this Cube.
      * @param {Number} x Length of this Cube.
      * @param {Number} z Width of this Cube.
+     * @param {Uint16Array} _n Hidden parameter.
+     * @param {Uint32Array} [_a] Hidden optional parameter.
      * @extends {Cube}
-     * @link https://example.com/
+     * @link https://cube.com/
      */
-    constructor (n, x, y) {
+    constructor (n, x, y, _n, _a = new Uint32Array()) {
+
+        // doNothing(_n);
+        // doNothing(_a);
         
         super (x, y);
 
