@@ -7,8 +7,8 @@ class CustomCube extends MyCube {
 
     /**
      * Yet another custom Cube.
-     * @param {Number} x Length of this Cube.
-     * @param {Number} z Width of this Cube.
+     * @param {Number} _x Length of this Cube.
+     * @param {Number} _z Width of this Cube.
      * @extends {MyCube}
      */
     constructor (x, y) {
