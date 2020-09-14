@@ -37,7 +37,7 @@
             "Params": [
                 "{Object<String, Number>} n Foo"
             ],
-            "Returns": "{Object<n, l, w>}"
+            "Returns": "{Object<n, l, w>} Info object"
         }
     ],
     "CustomCube": [

@@ -43,4 +43,4 @@ To create your own, please create another class which extends this one.
 > | --- | --- | --- |
 > | n | Object<String, Number> | Foo |
 >
-> Returns **{Object<n,** l, w>}
+> Returns **{Object<n,** l, w>} Info object
