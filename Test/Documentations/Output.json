@@ -120,7 +120,8 @@
             "Typedef": "{Object} NameOptions",
             "Params": [
                 "{String} Name The name of this MyCube.",
-                "{Number} Age Length of life."
+                "{Number} Age Length of life.",
+                "{Array<Number, Number>} Info Length/width array."
             ]
         }
     ]

@@ -14,5 +14,6 @@
 > | --- | --- | --- |
 > | Name | String | The name of this MyCube. |
 > | Age | Number | Length of life. |
+> | Info | Array<Number, Number> | Length/width array. |
 >
 > Type **{Object}**
