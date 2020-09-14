@@ -41,7 +41,7 @@ class Cube {
     /**
      * Returns an object with info.
      * @param {Object<String, Number>} n Foo
-     * @returns {Object<n, l, w>}
+     * @returns {Object<n, l, w>} Info object
      */
     Info (n) {
         return {
