@@ -36,3 +36,11 @@ To create your own, please create another class which extends this one.
 > Calculates the surface of this Cube.
 >
 > Returns **{Number}** Area of the Cube.
+
+## [.Info(n)](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L41)
+> Returns an object with info.
+> | Key | Type | Description |
+> | --- | --- | --- |
+> | n | Object<String, Number> | Foo |
+>
+> Returns **{Object<n,** l, w>}

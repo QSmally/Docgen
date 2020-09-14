@@ -28,6 +28,16 @@
             "Line": 32,
             "Description": "Calculates the surface of this Cube.",
             "Returns": "{Number} Area of the Cube."
+        },
+        {
+            "Value": "Info",
+            "Flags": [],
+            "Line": 41,
+            "Description": "Returns an object with info.",
+            "Params": [
+                "{Object<String, Number>} n Foo"
+            ],
+            "Returns": "{Object<n, l, w>}"
         }
     ],
     "CustomCube": [
