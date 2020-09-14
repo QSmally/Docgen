@@ -38,6 +38,19 @@ class Cube {
         return this.Length * this.Width;
     }
 
+    /**
+     * Returns an object with info.
+     * @param {Object<String, Number>} n Foo
+     * @returns {Object<n, l, w>}
+     */
+    Info (n) {
+        return {
+            n,
+            l: this.Length,
+            w: this.Width,
+        }
+    }
+
 }
 
 module.exports = Cube;
