@@ -40,7 +40,7 @@ My custom Cube.
 > Returns **{NoNum}** 
 
 # Typedefs
-## [.NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L80)
+## [NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L80)
 > The number 5 or 16.
 >
 > Type **{Number}**

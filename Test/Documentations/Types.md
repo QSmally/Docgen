@@ -8,7 +8,7 @@
 
 
 
-## [.NameOptions](https://github.com/QSmally/Docgen/blob/master/Test/lib/Types.js#L2)
+## [NameOptions](https://github.com/QSmally/Docgen/blob/master/Test/lib/Types.js#L2)
 > Options for this MyCube.
 > | Key | Type | Description |
 > | --- | --- | --- |
