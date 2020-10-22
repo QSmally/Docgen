@@ -41,7 +41,8 @@ gendocs [Path to configuration file]
     "Typedefs": ["lib/Types/MyTypes"],
 
     // The order in which the documentation index will be set. `Index` will get ignored.
+    // Create an entry with a leading `#` for it to count as a title for the next doc files.
     // This can also be a `false` boolean to use the Keys sort order.
-    "Overview": ["Cube", "MyCube", "CustomCube"]
+    "Overview": ["Cube", "#Ext. of Cube", "MyCube", "CustomCube"]
 }
 ```
