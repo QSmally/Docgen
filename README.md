@@ -38,6 +38,10 @@ gendocs [Path to configuration file]
     // If you have a seperate file with type definitions, and you're using the Key Path or
     // the array of files option, you can add the files to add to type definitions here. If you want
     // all files to be added to generate docs from, apply either 'true' or 'false' to the Keys value.
-    "Typedefs": ["lib/Types/MyTypes"]
+    "Typedefs": ["lib/Types/MyTypes"],
+
+    // The order in which the documentation index will be set. `Index` will get ignored.
+    // This can also be a `false` boolean to use the Keys sort order.
+    "Overview": ["Cube", "MyCube", "CustomCube"]
 }
 ```
