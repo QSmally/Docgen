@@ -1,13 +1,13 @@
 
 # Documentation Generator
 
-This module creates in-depth Markdown documentation based on your JSDoc comments.
+This module creates in-depth Markdown documentation based on JSDoc comments.
 
-[Here's an example of what it looks like!](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
+[Here's an example of how the documentations look like!](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
 
 ### How To Use
 
-To generate documentations for your module, customise the [configuration](#example-config) and enter the following command in your **Node scripts**:
+To generate documentations for your module, customise the [configuration](#example-config) and enter the following command in your **Node scripts** or manually:
 ```bash
 gendocs [Path to configuration file]
 ```
