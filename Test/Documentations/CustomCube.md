@@ -5,8 +5,8 @@
 * [Cube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
 
 **Ext. of Cube**
-* [CustomCube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/CustomCube.md)
 * [MyCube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/MyCube.md)
+* [My Custom One](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/CustomCube.md)
 
 Yet another custom Cube.
 

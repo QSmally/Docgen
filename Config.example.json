@@ -8,5 +8,10 @@
     "Repository": "https://github.com/QSmally/Docgen/blob/master/",
     "Keys": ["Test/lib/Cube", "Test/lib/Extensions/CustomCube", "Test/lib/Extensions/MyCube"],
     "Typedefs": ["Test/lib/Types"],
-    "Overview": ["Cube", "#Ext. of Cube", "CustomCube", "MyCube"]
+    "Overview": {
+        "Cube": "Cube",
+        "#Ext": "Ext. of Cube",
+        "MyCube": "MyCube",
+        "My Custom One": "CustomCube"
+    }
 }
