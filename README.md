@@ -25,14 +25,14 @@ gendocs [Path to configuration file]
         "MyCube": "Once you initialise MyCube, you cannot change the name."
     },
 
-    // Repository URL (with blob/{branch}) to link.
+    // Repository URL (with blob/{branch}/) to link.
     "Repository": "https://github.com/QSmally/Docgen/blob/master/",
 
     // File names to make docs for. Types:
-    // Array - An array of file paths to 'whitelist' for making docs (this is also going to be the sort order),
-    // Boolean true - To indicate all files - but sort order is based on the directory tree,
+    // Array         - An array of file paths to 'whitelist' for making docs (this is also going to be the sort order),
+    // Boolean true  - To indicate all files - but sort order is based on the directory tree,
     // Boolean false - To generate docs for all files, sorted by their ASCII character order.
-    // String - Path to the JS file with an object, and as keys, the keys to use.
+    // String        - Path to the JS file with an object, and as keys, the keys to use.
     "Keys": ["lib/Cube", "lib/Extensions/MyCube", "lib/Extensions/CustomCube"],
 
     // If you have a seperate file with type definitions, and you're using the Key Path or
