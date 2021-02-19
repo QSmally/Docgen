@@ -6,7 +6,7 @@
                 "Variable",
                 "ReadOnly"
             ],
-            "Line": 14,
+            "Line": 15,
             "Description": "The length of this Cube.",
             "Type": "{Number}"
         },
@@ -16,7 +16,7 @@
                 "Variable",
                 "ReadOnly"
             ],
-            "Line": 22,
+            "Line": 23,
             "Description": "The width of this Cube.",
             "Type": "{Number}"
         },
@@ -25,14 +25,14 @@
             "Flags": [
                 "Async"
             ],
-            "Line": 32,
+            "Line": 33,
             "Description": "Calculates the surface of this Cube.",
             "Returns": "{Number} Area of the Cube."
         },
         {
             "Value": "Info",
             "Flags": [],
-            "Line": 41,
+            "Line": 42,
             "Description": "Returns an object with info.",
             "Params": [
                 "{Object<String, Number>} n Foo"
@@ -100,11 +100,19 @@
             "Returns": "{NoNum}"
         },
         {
+            "Value": "No3",
+            "Flags": [],
+            "Line": 75,
+            "Description": "Return the number 32.",
+            "Code": "const MyNum = MyCube.No3();\nconsole.log(MyNum);",
+            "Returns": "{Number}"
+        },
+        {
             "Value": "",
             "Flags": [
                 "Typedef"
             ],
-            "Line": 80,
+            "Line": 90,
             "Description": "The number 5 or 16.",
             "Typedef": "{Number} NoNum"
         }

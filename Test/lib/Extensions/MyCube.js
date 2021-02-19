@@ -72,6 +72,16 @@ class MyCube extends Cube {
         return 16;
     }
 
+    /**
+     * Return the number 32.
+     * @example const MyNum = MyCube.No3();
+     * console.log(MyNum);
+     * @returns {Number}
+     */
+    No3 () {
+        return 32;
+    }
+
 }
 
 module.exports = MyCube;

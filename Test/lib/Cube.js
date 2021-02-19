@@ -8,6 +8,7 @@ class Cube {
      * @param {Number} x Length of this Cube.
      * @param {Number} z Width of this Cube.
      * @example const Cube = new Cube(5, 3);
+     * console.log("a new line");
      */
     constructor (x, y) {
         

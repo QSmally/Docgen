@@ -33,15 +33,24 @@ My custom Cube.
 ## [.No()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L56) [**Static**]
 > Returns the number 5.
 >
-> Returns **{NoNum}** 
+> Returns **{NoNum}**
 
 ## [.No2()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L65) [**Static**, **Async**]
 > Asynchronously returns the number 16.
 >
-> Returns **{NoNum}** 
+> Returns **{NoNum}**
+
+## [.No3()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L75)
+> Return the number 32.
+> ```js
+> const MyNum = MyCube.No3();
+> console.log(MyNum);
+> ```
+>
+> Returns **{Number}**
 
 # Typedefs
-## [NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L80)
+## [NoNum](https://github.com/QSmally/Docgen/blob/master/Test/lib/Extensions/MyCube.js#L90)
 > The number 5 or 16.
 >
 > Type **{Number}**
