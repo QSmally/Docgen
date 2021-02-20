@@ -45,8 +45,9 @@ gendocs [Path to configuration file]
     // for the next doc files. This can also be a `false` boolean to use the Keys sort order.
     "Overview": {
         "Cube": "Cube",
-        "#Ext": "Ext. of Cube",
-        "MyCube": "MyCube",
+
+        "#Ext":          "Ext. of Cube",
+        "MyCube":        "MyCube",
         "My Custom One": "CustomCube"
     }
 }
