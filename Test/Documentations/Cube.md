@@ -1,5 +1,6 @@
 
 # Cube
+### Implements **{Awesomeness}**
 
 * [Cube](https://github.com/QSmally/Docgen/blob/master/Test/Documentations/Cube.md)
 
@@ -23,23 +24,23 @@ To create your own, please create another class which extends this one.
 
 
 # Values
-## [.Length](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L15)
+## [.Length](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L16)
 > The length of this Cube. [**Read Only**]
 >
 > Type **{Number}**
 
-## [.Width](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L23)
+## [.Width](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L24)
 > The width of this Cube. [**Read Only**]
 >
 > Type **{Number}**
 
 # Methods
-## [.Square()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L33) [**Async**]
+## [.Square()](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L34) [**Async**]
 > Calculates the surface of this Cube.
 >
 > Returns **{Number}** Area of the Cube.
 
-## [.Info(n)](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L42)
+## [.Info(n)](https://github.com/QSmally/Docgen/blob/master/Test/lib/Cube.js#L43)
 > Returns an object with info.
 > | Key | Type | Description |
 > | --- | --- | --- |

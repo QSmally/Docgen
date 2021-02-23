@@ -9,6 +9,7 @@ class Cube {
      * @param {Number} z Width of this Cube.
      * @example const Cube = new Cube(5, 3);
      * console.log("a new line");
+     * @implements {Awesomeness}
      */
     constructor (x, y) {
         
